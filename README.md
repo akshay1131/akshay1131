@@ -2,9 +2,9 @@
 
 # Akshay Joji
 
-**Computer Science Engineering Student · B.Tech 2027**
+### Computer Science Engineering Student · B.Tech 2027
 
-### Cybersecurity · Networking · IT Infrastructure · Cloud Computing
+**Cybersecurity · Networking · IT Infrastructure · Cloud Computing**
 
 [GitHub](https://github.com/akshay1131) · [LinkedIn](https://www.linkedin.com/in/akshayjoji)
 
@@ -12,66 +12,55 @@
 
 ---
 
-## Profile
+## About
 
-I’m a Computer Science Engineering student graduating in 2027, building practical experience in cybersecurity and the systems that support reliable infrastructure. My interests span network administration, security analysis, IT operations, and cloud computing. I value clear documentation, thoughtful problem-solving, and learning through projects.
+I’m a Computer Science Engineering student graduating in 2027, focused on building a strong technical foundation in cybersecurity, networking, IT infrastructure, and cloud computing. I enjoy translating ideas into practical projects and learning how secure, reliable systems are designed and operated.
 
-**Career interests:** Entry-level opportunities in cybersecurity, network administration, IT infrastructure, and cloud operations.
+**Career interests:** cybersecurity, network administration, IT infrastructure, and cloud operations.
 
 ---
 
-## Selected Projects
+## Featured Project
 
 ### [DarkonAI](https://github.com/akshay1131/DarkonAI)
 
-A cybersecurity vulnerability-assessment and risk-analysis platform. The project README describes automated vulnerability scanning, CVE analysis, threat assessment, risk scoring, and security report generation.
+A cybersecurity vulnerability assessment and risk-analysis platform. The project documentation describes automated vulnerability scanning, CVE analysis, threat assessment, risk scoring, and security report generation.
 
-**Stack documented in the repository**  
+**Technologies documented in the repository:**
 Python · Flask · React · Vite · Tailwind CSS · SQLite · Nmap · NVD CVE API
 
-[View source and project documentation →](https://github.com/akshay1131/DarkonAI)
-
-### B-ARES
-
-A cybersecurity project described in my existing profile as focused on biotechnology research infrastructure, threat intelligence, threat analysis, and incident response.
-
-**Stack listed in existing profile materials**  
-Python · Flask · SQLite · Threat-intelligence APIs
-
-**Repository link:** Not included until the public repository URL is confirmed.
+[Explore the repository →](https://github.com/akshay1131/DarkonAI)
 
 ---
 
 ## Technical Toolkit
 
-| Category | Technologies and focus areas |
-| --- | --- |
-| Programming | Python, JavaScript, SQL, Bash |
-| Application development | Flask, React, Vite, Tailwind CSS, REST APIs |
-| Security tooling | Nmap; vulnerability and CVE analysis documented in DarkonAI |
-| Data and workflow | SQLite, Git, GitHub |
-| Career focus | Networking, cybersecurity, IT infrastructure, cloud computing |
-
-*Technologies above reflect project materials and profile details; this list does not imply professional experience or certification.*
+**Programming:** Python · JavaScript · SQL  
+**Application development:** Flask · React · REST APIs  
+**Database and workflow:** SQLite · Git · GitHub  
+**Security and infrastructure:** Nmap · cybersecurity analysis · vulnerability assessment  
+**Career focus:** Network administration · Cybersecurity · IT infrastructure · Cloud computing
 
 ---
 
-## GitHub
+## Project Highlights
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akshay1131&show_icons=true&hide_border=true&theme=default&title_color=1f4b99&icon_color=1f4b99&text_color=334155&bg_color=ffffff" alt="GitHub profile statistics for akshay1131" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay1131&layout=compact&hide_border=true&theme=default&title_color=1f4b99&text_color=334155&bg_color=ffffff" alt="Languages in public repositories for akshay1131" />
-</p>
+### B-ARES
+
+This project is described in my existing profile materials as a cybersecurity-focused initiative for threat detection, response, and secure infrastructure analysis.
+
+**Technologies previously listed:** Python · Flask · SQLite · Threat-intelligence APIs  
+**Repository link:** Add the verified public repository URL here before publishing.
 
 ---
 
-## Contact
+## Connect
 
 - **GitHub:** [github.com/akshay1131](https://github.com/akshay1131)
-- **LinkedIn:** [linkedin.com/in/akshayjoji](https://www.linkedin.com/in/akshayjoji) *(please verify this is your correct profile URL)*
+- **LinkedIn:** [linkedin.com/in/akshayjoji](https://www.linkedin.com/in/akshayjoji)
 
 <div align="center">
 
-*Building practical skills for secure, dependable technology systems.*
+*Learning by building. Focused on secure and dependable systems.*
 
 </div>
